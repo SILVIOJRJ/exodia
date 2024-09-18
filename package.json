@@ -1,0 +1,15 @@
+{
+  "name": "exodia",
+  "version": "1.0.0",
+  "description": "Projeto destinado a avaliação bimestral do 6º Termo de Engenharia de Software do curso Gerência de Configuração e Evolução de Software - São os alunos Ana Laura, Danillo e Silvio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}
